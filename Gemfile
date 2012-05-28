@@ -32,6 +32,7 @@ end
 
 gem 'ri_cal'
 gem 'json', '~> 1.4.6'
+gem 'tane', :group => :development
 
 group :development, :test do
   gem 'rspec-rails', '~> 2.6'
