@@ -40,8 +40,7 @@ end
 
 gem 'ri_cal'
 gem 'json', '~> 1.4.6'
-gem 'errbit_cloudfuji'
-gem 'json', '~> 1.4.6'
+gem 'errbit_cloudfuji', '>= 0.1.1'
 gem 'tane', :group => :development
 
 group :development, :test do
